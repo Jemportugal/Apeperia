@@ -1,2 +1,2 @@
-# Apeperia
-Atividade realizada em sala de aula
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
